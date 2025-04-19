@@ -1,8 +1,4 @@
-## Hello World! 👋
-
-<!--
-**Arthur-Couto/Arthur-Couto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Arthur 🧙🏻
 
 - 🔭 I’m aiming towards getting an internship to develop my skills as a DEV. Here is my info if you are interested **link to my cv**
 - 📫 How to reach me: ...
