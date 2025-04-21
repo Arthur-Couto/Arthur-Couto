@@ -1,11 +1,12 @@
 # ☄️ Arthur do Couto
 > "É preciso sonhar, mas com a condição de crer em nosso sonho, de observar com atenção a vida real, de confrontar a observação com nosso sonho, de realizar escrupulosamente nossas fantasias."
 
-I study software engineering interested in **tech, psychology and economics**. I believe I can build a better future for myself and others with good will and a fair share of effort. 
+I'm interested in **tech, psychology and economics**. I believe I can build a better future for myself and others with good will and a fair share of effort. 
 Here I share some of what I learn and think. I hope you like it.
 
-- 🔭 I’m aiming towards getting an internship to develop my skills as a DEV. Here is my info if you are interested **link to my cv**
+👨‍🎓 *Studying Software Engineering at UNESA and ALURA*
 
+🔭 I’m aiming towards getting an **internship** to develop my skills as a DEV. Here's my info if you are interested
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdocouto/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurdcdp@gmail.com)
 
@@ -43,6 +44,6 @@ Here I share some of what I learn and think. I hope you like it.
 | --- | --- |
 
 
-- 👨‍🎓 Studying Software Engineering at UNESA and ALURA
+
 <!-- - 📚 About my reads **link to a blog repository** -->
 - ⚡ Fun facts: I'm interested in tennis, I like to hit the gym, to play boardgames and go to theaters
