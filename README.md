@@ -7,6 +7,7 @@ Here I share some of what I learn and think. I hope you like it.
 👨‍🎓 *Studying Software Engineering at UNESA and ALURA*
 
 🔭 I’m looking for an **internship** to develop my skills as a DEV. Here's my info if you are interested
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdocouto/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurdcdp@gmail.com)
 
