@@ -1,13 +1,14 @@
 # ☄️ Arthur do Couto
 > "É preciso sonhar, mas com a condição de crer em nosso sonho, de observar com atenção a vida real, de confrontar a observação com nosso sonho, de realizar escrupulosamente nossas fantasias."
 
-Sou um estudante apaixonado por **tecnologia, psicologia e economia**. Acredito que, ao combinar esses conhecimentos, é possível imaginar e trabalhar rumo um futuro melhor e mais justo.
-Aqui compartilho projetos, ideias e experimentos que refletem minha jornada.
+I study software engineering interested in **tech, psychology and economics**. I believe I can build a better future for myself and others with good will and a fair share of effort. 
+Here I share some of what I learn and think. I hope you like it.
 
 - 🔭 I’m aiming towards getting an internship to develop my skills as a DEV. Here is my info if you are interested **link to my cv**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdocouto/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurdcdp@gmail.com)
+
 ---
 ## 🐱‍💻 Linguagens e Tecnologias
 
@@ -18,7 +19,7 @@ Aqui compartilho projetos, ideias e experimentos que refletem minha jornada.
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />.
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 ---
 ## 🌱 Estou aprendendo
@@ -34,12 +35,6 @@ Aqui compartilho projetos, ideias e experimentos que refletem minha jornada.
 | --- | --- |
 
 
-- 🌱 I’m currently learning Reactjs, studying at ALURA.com
-
-
-- 📚 About my reads **link to a blog repository**
-- ⚡ Fun facts: I'm interested in ...
-
-<!--
-
--->
+- 👨‍🎓 Studying Software Engineering at UNESA and ALURA
+<!-- - 📚 About my reads **link to a blog repository** -->
+- ⚡ Fun facts: I'm interested in tennis, I like to hit the gym, to play boardgames and go to theaters
