@@ -41,7 +41,7 @@ Here I share some of what I learn and think. I hope you like it.
 
 ---
 ## 📊 Estatísticas
-| ![Arthur GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-Couto&show_icons=true&theme=shadow_red&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Couto&theme=shadow_red&layout=compact&custom_title=Tecnologias&langs_count=9)
+| ![Arthur GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-Couto&show_icons=true&theme=vue&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Couto&theme=vue&layout=compact&custom_title=Tecnologias&langs_count=9)
 | --- | --- |
 
 
