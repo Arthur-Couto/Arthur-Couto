@@ -47,4 +47,4 @@ Here I share some of what I learn and think. I hope you like it.
 
 
 <!-- - 📚 About my reads **link to a blog repository** -->
-- ⚡ Fun facts: I'm interested in tennis, I like to hit the gym, to play boardgames and go to theaters
+- ⚡ Fun facts: I'm interested in tennis, I like to hit the gym, to play boardgames and go to the theaters
