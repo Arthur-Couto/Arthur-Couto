@@ -13,8 +13,7 @@ Here I share some of what I learn and think. I hope you like it.
 
 ---
 
-<div align="center" href="https://github-readme-stats.vercel.app/api?username=Arthur-Couto&show_icons=true&theme=vue&include_all_commits=true&locale=pt-br">
-</div>
+<p align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=monicahillman&count_private=true&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Arthur-Couto&show_icons=true&theme=vue&include_all_commits=true" /> </p>
 
 ---
 
