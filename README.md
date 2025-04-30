@@ -40,6 +40,7 @@ Here I share some of what I learn and think. I hope you like it.
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
+---
 
 <!-- - 📚 About my reads **link to a blog repository** -->
 - ⚡ Fun facts: I'm interested in tennis, I like to hit the gym, to play boardgames and go to the theaters
