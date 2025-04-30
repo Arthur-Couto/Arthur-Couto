@@ -12,10 +12,11 @@ Here I share some of what I learn and think. I hope you like it.
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurdcdp@gmail.com)
 
 ---
-<div>
-| ![Arthur GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-Couto&show_icons=true&theme=vue&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Couto&theme=vue&layout=compact&custom_title=Tecnologias&langs_count=9)
-| --- | --- |
+
+<div align="center" href="https://github-readme-stats.vercel.app/api?username=Arthur-Couto&show_icons=true&theme=vue&include_all_commits=true&locale=pt-br">
 </div>
+
+---
 
 <div>
 ## 🐱‍💻 Languages and Technologies
@@ -28,11 +29,10 @@ Here I share some of what I learn and think. I hope you like it.
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
 
 <br/>
 
-<div>
+
 ## 🌱 Currently Learning
 
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
