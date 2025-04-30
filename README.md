@@ -18,6 +18,7 @@ Here I share some of what I learn and think. I hope you like it.
 ---
 
 <div>
+
 ## 🐱‍💻 Languages and Technologies
   
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
